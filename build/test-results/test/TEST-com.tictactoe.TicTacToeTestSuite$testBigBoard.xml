@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.tictactoe.TicTacToeTestSuite$testBigBoard" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-11-06T18:11:29" hostname="MORDOR" time="0.025">
+  <properties/>
+  <testcase name="testAddMove()" classname="com.tictactoe.TicTacToeTestSuite$testBigBoard" time="0.019"/>
+  <testcase name="testVictoryVertical()" classname="com.tictactoe.TicTacToeTestSuite$testBigBoard" time="0.002"/>
+  <testcase name="testVictoryDiagonalRight()" classname="com.tictactoe.TicTacToeTestSuite$testBigBoard" time="0.0"/>
+  <testcase name="testVictoryHorizontal()" classname="com.tictactoe.TicTacToeTestSuite$testBigBoard" time="0.0"/>
+  <testcase name="testVictoryDiagonalLeft()" classname="com.tictactoe.TicTacToeTestSuite$testBigBoard" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
